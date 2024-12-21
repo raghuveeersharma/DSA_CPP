@@ -10,4 +10,5 @@ int main()
         swap(s[i], s[j]);
     }
     cout << s;
+    return 0;
 }
