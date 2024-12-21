@@ -42,10 +42,5 @@ int main()
     frequency(v);
     cout << endl;
 
-    for (int num : v)
-    {
-        cout << num;
-    }
-
     return 0;
 }
